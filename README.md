@@ -41,9 +41,9 @@
 
 Check out my demo here: https://image-uploader.hamza.law/  
 
-This was my first React project not following a tutorial which is something I am proud of. It was also my first tie deploying a Node.js app - I did this using DigitalOcean Dropplets.
+This was my first React project not following a tutorial which is something I am proud of. It was also my first tie deploying a Node.js app - I did this using DigitalOcean Droplets.
 
-Even though this project is pretty simple, I feel like I have learnt alot, from how to use the browser drag and clipboard APIs, to how to handle form data and process it server side, to setting up a basic Dropplet and confiuring the server as well as setting up SSL using letsencrypt and certbot.
+Even though this project is pretty simple, I feel like I have learnt a lot, from how to use the browser drag and clipboard APIs, to how to handle form data and process it server-side, to setting up a basic Droplet and configuring the server as well as setting up SSL using lets-encrypt and certbot.
 
 ### Built With
 
