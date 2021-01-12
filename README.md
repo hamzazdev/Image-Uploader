@@ -43,10 +43,7 @@ Check out my demo here: https://image-uploader.hamza.law/
 
 This was my first React project not following a tutorial which is something I am proud of. It was also my first tie deploying a Node.js app - I did this using DigitalOcean Dropplets.
 
-Even though this project is 
-
-- What have you learned/improved?
-- Your wisdom? :)
+Even though this project is pretty simple, I feel like I have learnt alot, from how to use the browser drag and clipboard APIs, to how to handle form data and process it server side, to setting up a basic Dropplet and confiuring the server as well as setting up SSL using letsencrypt and certbot.
 
 ### Built With
 
@@ -86,7 +83,8 @@ $ yarn start
 - [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
 - [Node.js](https://nodejs.org/) - where would we be without node?
 - [Multer](https://www.npmjs.com/package/multer) - this was used for handling the image input on the server
-- [DigitalOcean](https://www.digitalocean.com/) - for their amazing docs and the free credits they offer
+- [Digital Ocean](https://www.digitalocean.com/) - for their amazing docs and the free credits they offer
+- [Let's Encrypt](https://letsencrypt.org/) - for the free SSL certs and their amazing docs on how to set it up.
 
 ## Contact
 
