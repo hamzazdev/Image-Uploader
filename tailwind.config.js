@@ -4,20 +4,19 @@ module.exports = {
   theme: {
     extend: {
       width: {
-        '402': '402px',
+        402: '402px',
       },
       height: {
-        '469': '469px',
-        '220': '220px'
-      }
+        469: '469px',
+        220: '220px',
+      },
     },
     fontFamily: {
-      Poppins: ['Poppins']
+      Poppins: ['Poppins'],
     },
-
   },
   variants: {
     extend: {},
   },
   plugins: [],
-}
+};
